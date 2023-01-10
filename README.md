@@ -1,5 +1,26 @@
+
+```
 <h1 align="center">Hi 👋, I'm Ryan Hoffman</h1>
 <h3 align="center">A senior Full stack developer</h3>
+
+
+```typescript
+    class RyanHoffman {
+        constructor(open_to_hear_about_new_opportunities: boolean) {}
+        
+        title = "Senior Developer";
+        front_end_frameworks = ["React", "Angular", "Vue"];
+        back_end_languages = ["Node", "Go"]
+        looking_to_learn_new_things = true;
+        
+        spam() {
+            window.open("mailto:hopemanryan@gmail.com")
+        }
+        ping(){
+            window.open("https://www.linkedin.com/in/ryan-hoffman-903862108/")
+        }
+        
+    }
 
 - 🔭 I’m currently working at [Rookout](https://www.rookout.com/)
 
