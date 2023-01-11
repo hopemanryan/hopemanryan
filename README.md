@@ -24,7 +24,7 @@
 ```
 - 🔭 I’m currently working at [Rookout](https://www.rookout.com/)
 
-- 📝 I regularly write articles on [hoffmnaryan.com](https://www.hoffmnaryan.com)
+- 📝 I regularly write articles on [hoffmnaryan.com](https://www.hoffmanryan.com)
 
 - 📫 How to reach me **hopemanryan@gmail.com**
 
