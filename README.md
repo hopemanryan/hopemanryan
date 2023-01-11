@@ -21,7 +21,7 @@
         }
         
     }
-
+```
 - 🔭 I’m currently working at [Rookout](https://www.rookout.com/)
 
 - 📝 I regularly write articles on [hoffmnaryan.com](hoffmnaryan.com)
