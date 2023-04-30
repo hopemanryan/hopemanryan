@@ -22,7 +22,7 @@
         
     }
 ```
-- 🔭 I’m currently working at [Rookout](https://www.rookout.com/)
+- 🔭 I’m currently working at [AppsFlyer](https://appsflyer.com/)
 
 - 📝 I regularly write articles on [hoffmnaryan.com](https://www.hoffmanryan.com)
 
